@@ -1,0 +1,11 @@
+BZM BOT YAZILIM SAGLIK KONTROLU
+Tarih UTC: 2026-09-15T07:07:24.836700+00:00
+----------------------------------------------
+[PASS] BZM bot servisi (active)
+[PASS] bot.py Python kontrolü
+[PASS] SQLite veritabanı
+[PASS] Gerekli tablolar
+[PASS] Admin/görev/çekim güvenlik modülleri
+----------------------------------------------
+SONUC: 5/5 kontrol basarili
+GENEL DURUM: HEALTHY
